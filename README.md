@@ -35,3 +35,19 @@ https://github.com/Saikat7723/AI-Product-Recommendation-System
 - REST APIs
 - CORS
 
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Product Recommendation (Office Laptop under Budget)
+![AI Product Recommendation Screenshot](./screenshots/recommendation-office-laptop.png)
+
+### 🔹 Dynamic Recommendations with Filters
+![AI Product Recommendation Results](./screenshots/recommendation-results.png)
+
+> 💡 The system dynamically filters products based on budget, category, and features, and explains why each product is recommended.
+
+---
+
+## 🏗️ Project Architecture
+

@@ -35,7 +35,3 @@ https://github.com/Saikat7723/AI-Product-Recommendation-System
 - REST APIs
 - CORS
 
----
-
-## 🏗️ Project Architecture
-
